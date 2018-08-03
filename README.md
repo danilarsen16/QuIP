@@ -1,4 +1,4 @@
-<p align="center>
+<p align="center">
 <img src="https://github.com/danilarsen16/QuIP/blob/master/QuipLogo.PNG" width="250">
 </p>
 
