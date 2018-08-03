@@ -1,4 +1,3 @@
-Reference-style: 
 ![alt text][QuipLogo.PNG]
 
 # QuIP
