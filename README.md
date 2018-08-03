@@ -6,6 +6,8 @@
 Quip is a revolutionary app, that allows users to search, create and favorite quotes of their choosing.  
 </p>
   
+    
+    
 # Lets get started!  
 You'll want to begin by visiting our deployed webpage [QuIP](https://fast-cliffs-70605.herokuapp.com/home.html)  
 Once there, you have the option to either browse our website as a guest, or kick it up a knotch and become a member! 
@@ -13,7 +15,6 @@ Once there, you have the option to either browse our website as a guest, or kick
 ## Benefits of using QuIP  
 * Multiple quote categories, allows you to be selective when choosing your ideal reaults.
 * Within each category, you have numerous quotes to enjoy with our *Load More* button.
-
 
 ## QuIP Membership Perks!
 * You will have rights to your own unique user id and password.
@@ -29,10 +30,11 @@ Once there, you have the option to either browse our website as a guest, or kick
 * Illustrator & Photoshop Alternatives
 
         
-Front End | Back End
+**Front End | Back End**
 ------------ | -------------
 Illustrator/ Photoshop | Public Datasets
 Icon Libraries | Multiple API results
 Bootflat | Utilized local storage  
   
-**&copy; Dani Larsen | Haley Belden | Andrew Vickerman | Joe Gathje
+    
+**&copy; Dani Larsen | Haley Belden | Andrew Vickerman | Joe Gathje**
