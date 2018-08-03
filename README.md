@@ -1,4 +1,4 @@
-![Quip Logo](https://github.com/danilarsen16/QuIP/blob/master/QuipLogo.PNG {height="10px" width="10px"})
+![Quip Logo](https://github.com/danilarsen16/QuIP/blob/master/QuipLogo.PNG height="10px" width="10px")
 
 # QuIP
 ## Quotes Inspiring People
@@ -34,8 +34,4 @@ Bootflat | Utilized local storage
 * Balsamiq
 * Illustrator & Photoshop Alternatives
 
-## Developers
-* Dani Larsen
-* Haley Belden
-* Andrew Vickerman
-* Joe Gathje
+&copy Dani Larsen | Haley Belden | Andrew Vickerman | Joe Gathje
