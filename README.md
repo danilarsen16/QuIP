@@ -2,10 +2,9 @@
 <img src="https://github.com/danilarsen16/QuIP/blob/master/QuipLogo.PNG" width="250">
 </p>
 
-# QuIP  
-## Quotes Inspiring People  
+<p align="center">
 **&copy; Dani Larsen | Haley Belden | Andrew Vickerman | Joe Gathje**
-
+</p>
 
 Quip is a revolutionary app, that allows users to search, create and favorite quotes of their choosing.  
   
