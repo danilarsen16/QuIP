@@ -1,5 +1,5 @@
 Reference-style: 
-![alt text][logo]
+![alt text][QuipLogo.PNG]
 
 # QuIP
 ## Quotes Inspiring People
