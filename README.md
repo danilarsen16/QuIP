@@ -34,4 +34,4 @@ Bootflat | Utilized local storage
 * Balsamiq
 * Illustrator & Photoshop Alternatives
 
-&copy Dani Larsen | Haley Belden | Andrew Vickerman | Joe Gathje
+&copy; Dani Larsen | Haley Belden | Andrew Vickerman | Joe Gathje
