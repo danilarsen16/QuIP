@@ -2,7 +2,9 @@
 <img src="https://github.com/danilarsen16/QuIP/blob/master/QuipLogo.PNG" width="275">
 </p>  
 
-## Quip is a revolutionary app, that allows users to search, create and favorite quotes of their choosing.  
+<p align="center">
+Quip is a revolutionary app, that allows users to search, create and favorite quotes of their choosing.  
+</p>
   
 # Lets get started!  
 You'll want to begin by visiting our deployed webpage [QuIP](https://fast-cliffs-70605.herokuapp.com/home.html)  
@@ -26,13 +28,11 @@ Once there, you have the option to either browse our website as a guest, or kick
 * Balsamiq
 * Illustrator & Photoshop Alternatives
 
-      
+        
 Front End | Back End
 ------------ | -------------
 Illustrator/ Photoshop | Public Datasets
 Icon Libraries | Multiple API results
 Bootflat | Utilized local storage  
   
-  <p align="center">
-  <b>&copy; Dani Larsen | Haley Belden | Andrew Vickerman | Joe Gathje</b>
-</p>
+**&copy; Dani Larsen | Haley Belden | Andrew Vickerman | Joe Gathje
