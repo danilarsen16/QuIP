@@ -1,9 +1,4 @@
-![Quip Logo](https://github.com/danilarsen16/QuIP/blob/master/QuipLogo.PNG)  
-img[alt=name_for_alt] {
-  width: 70%;
-  border: none;
-  background: none;
-}
+![Quip Logo](https://github.com/danilarsen16/QuIP/blob/master/QuipLogo.PNG){:height="150px" width="150px"}
 
 # QuIP
 ## Quotes Inspiring People
