@@ -1,14 +1,13 @@
 <p align="center">
-<img src="https://github.com/danilarsen16/QuIP/blob/master/QuipLogo.PNG" width="250">
+<img src="https://github.com/danilarsen16/QuIP/blob/master/QuipLogo.PNG" width="275">
 </p>
-
 <p align="center">
   <b>&copy; Dani Larsen | Haley Belden | Andrew Vickerman | Joe Gathje</b>
 </p>
 
-Quip is a revolutionary app, that allows users to search, create and favorite quotes of their choosing.  
+## Quip is a revolutionary app, that allows users to search, create and favorite quotes of their choosing.  
   
-## Lets get started!  
+# Lets get started!  
 You'll want to begin by visiting our deployed webpage [QuIP](https://fast-cliffs-70605.herokuapp.com/home.html)  
 Once there, you have the option to either browse our website as a guest, or kick it up a knotch and become a member! 
 
