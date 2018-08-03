@@ -21,18 +21,11 @@ Once there, you have the option to either browse our website as a guest, or kick
 * Dont see your favoorite quotes on our app? No problem, you can add your own, then delete it later if you'd like!  
   
     
-
-### Front End Details
-* Illustrator & Photoshop Alternatives
-* Icon Libraries
-* Bootflat
-
-### Back End Details
-* Public Datasets
-* Multiple API results
-* Multiple tables
-* Utilizing local storage
-
+Front End | Back End
+------------ | -------------
+Illustrator/ Photoshop | Public Datasets
+Icon Libraries | Multiple API results
+Bootflat | Utilized local storage
 
 ## Technologies/ Resources:
 * Bootflat
