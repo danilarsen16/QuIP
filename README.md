@@ -30,7 +30,7 @@ Once there, you have the option to either browse our website as a guest, or kick
 * Illustrator & Photoshop Alternatives
 
         
-**Front End | Back End**
+**Front End** | **Back End**
 ------------ | -------------
 Illustrator/ Photoshop | Public Datasets
 Icon Libraries | Multiple API results
