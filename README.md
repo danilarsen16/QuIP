@@ -1,4 +1,4 @@
-![alt text][QuipLogo.PNG]
+![Quip Logo](https://github.com/danilarsen16/QuIP)  
 
 # QuIP
 ## Quotes Inspiring People
