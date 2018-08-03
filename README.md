@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-**&copy; Dani Larsen | Haley Belden | Andrew Vickerman | Joe Gathje**
+  <b>&copy; Dani Larsen | Haley Belden | Andrew Vickerman | Joe Gathje</b>
 </p>
 
 Quip is a revolutionary app, that allows users to search, create and favorite quotes of their choosing.  
