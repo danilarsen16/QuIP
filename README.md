@@ -1,20 +1,27 @@
+Reference-style: 
+![alt text][logo]
+
 # QuIP
 ## Quotes Inspiring People
 
-Quip is a revolutionary app, that allows users to search, create and favorite quotes of their choosing.
-Checkout our webpage [here](https://fast-cliffs-70605.herokuapp.com/home.html)
+Quip is a revolutionary app, that allows users to search, create and favorite quotes of their choosing.  
+  
+## Lets get started!  
+You'll want to begin by visiting our deployed webpage [QuIP](https://fast-cliffs-70605.herokuapp.com/home.html)  
+Once there, you have the option to either browse our website as a guest, or kick it up a knotch and become a member! 
 
-## Lets get started!
-* QuIP allows you to browse our website as a guest, or kick it up a knotch! 
-* You can become a member, by creating your own unique user id and password.
-* Multiple quote categories, allows you to be selective when choosing your response
-* Once your quote category has been chosen, you have the option to load more within that category.
-* Love a quote, and want to see it again? You're in luck! Once you become a member, you can favorite your quotes.
+## Benefits of using QuIP  
+* Multiple quote categories, allows you to be selective when choosing your ideal reaults.
+* Within each category, you have numerous quotes to enjoy with our *Load More* button.
+
+
+## QuIP Membership Perks!
+* You will have rights to your own unique user id and password.
+* Love a quote, and want to see it again? You're in luck, favorite it!
 * Favoriting your quotes, sends them to your own personal profile to view at any time.
-* Dont see your favoorite quotes on our app? No problem, you can add your own, then delete it later if you'd like!
-
-## Preporation
-* Balsamiq
+* Dont see your favoorite quotes on our app? No problem, you can add your own, then delete it later if you'd like!  
+  
+    
 
 ### Front End Details
 * Illustrator & Photoshop Alternatives
@@ -28,12 +35,12 @@ Checkout our webpage [here](https://fast-cliffs-70605.herokuapp.com/home.html)
 * Utilizing local storage
 
 
-## Technologies:
+## Technologies/ Resources:
 * Bootflat
 * Public Datasets
 * Icon Libraries
-* Illustrator & Photoshop Alternatives
 * Balsamiq
+* Illustrator & Photoshop Alternatives
 
 ## Developers
 * Dani Larsen
