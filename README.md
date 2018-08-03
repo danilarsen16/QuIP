@@ -1,5 +1,4 @@
-![Quip Logo](https://github.com/danilarsen16/QuIP/blob/master/QuipLogo.PNG height="10px" width="10px")
-<img src="https://github.com/danilarsen16/QuIP/blob/master/QuipLogo.PNG" width="48">
+<img src="https://github.com/danilarsen16/QuIP/blob/master/QuipLogo.PNG" width="250">
 
 
 # QuIP  
