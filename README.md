@@ -1,9 +1,6 @@
 <p align="center">
 <img src="https://github.com/danilarsen16/QuIP/blob/master/QuipLogo.PNG" width="275">
-</p>
-<p align="center">
-  <b>&copy; Dani Larsen | Haley Belden | Andrew Vickerman | Joe Gathje</b>
-</p>
+</p>  
 
 ## Quip is a revolutionary app, that allows users to search, create and favorite quotes of their choosing.  
   
@@ -21,13 +18,6 @@ Once there, you have the option to either browse our website as a guest, or kick
 * Love a quote, and want to see it again? You're in luck, favorite it!
 * Favoriting your quotes, sends them to your own personal profile to view at any time.
 * Dont see your favoorite quotes on our app? No problem, you can add your own, then delete it later if you'd like!  
-  
-    
-Front End | Back End
------------- | -------------
-Illustrator/ Photoshop | Public Datasets
-Icon Libraries | Multiple API results
-Bootflat | Utilized local storage
 
 ## Technologies/ Resources:
 * Bootflat
@@ -35,3 +25,14 @@ Bootflat | Utilized local storage
 * Icon Libraries
 * Balsamiq
 * Illustrator & Photoshop Alternatives
+
+      
+Front End | Back End
+------------ | -------------
+Illustrator/ Photoshop | Public Datasets
+Icon Libraries | Multiple API results
+Bootflat | Utilized local storage  
+  
+  <p align="center">
+  <b>&copy; Dani Larsen | Haley Belden | Andrew Vickerman | Joe Gathje</b>
+</p>
